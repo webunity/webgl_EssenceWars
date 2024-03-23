@@ -1,22 +1,22 @@
 {
   "project_info": {
-    "project_number": "283024650858",
-    "firebase_url": "https://essensewars-default-rtdb.asia-southeast1.firebasedatabase.app",
-    "project_id": "essensewars",
-    "storage_bucket": "essensewars.appspot.com"
+    "project_number": "1026120726858",
+    "firebase_url": "https://guardianwars-45287-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "guardianwars-45287",
+    "storage_bucket": "guardianwars-45287.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:283024650858:android:3bc0d3aea8db3bcda19013",
+        "mobilesdk_app_id": "1:1026120726858:android:e058980b2f03e88ec329b3",
         "android_client_info": {
-          "package_name": "com.solutionxl.esencewars"
+          "package_name": "com.ggamestudio.theguardianwars"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDuGToeHdtCXkMCD6DWRavdk3hgQFs09Cs"
+          "current_key": "AIzaSyDr2aiQ3Di5FxY4gE81a1qAwyALlSpyZZc"
         }
       ],
       "services": {
